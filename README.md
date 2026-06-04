@@ -281,8 +281,8 @@ Beberapa pengembangan yang bisa ditambahkan:
 
 ## 👤 Author
 
-**Sharon Stefania**
-NIM : 21060125120039
+**Johann Antonio**
+NIM : 21060125120050
 Universitas Diponegoro
 
 Rincian tugas setiap anggota kelompok
